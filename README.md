@@ -67,21 +67,22 @@ The system includes:
 **Transmission Analysis Across Fiber Lengths**
 
 | S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+|-----|------------------|----------------------|--------------------|-------------|---------|------------|------------------------------------|
+| 1 | 60  | 30.563 | 15.148 | 85.0711 | 0 | 6.09879e-05 | 0.546875 |
+| 2 | 70  | 18.914 | 17.219 | 66.7481 | 0 | 3.8153e-05 | 0.546875 |
+| 3 | 80  | 11.776 | 17.289 | 61.3449 | 0 | 2.39016e-05 | 0.546875 |
+| 4 | 90  | 7.801  | 21.079 | 44.5452 | 0 | 1.48427e-05 | 0.546875 |
+| 5 | 100 | 4.422  | 23.679 | 45.2504 | 0 | 9.42485e-06 | 0.546875 |
 
 ---
 
-## Graphs
+## Tabulation
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+![WhatsApp Image 2026-03-22 at 7 59 35 AM (1)](https://github.com/user-attachments/assets/3eca3335-bb2d-4357-a0c3-aa6fb6082a26)
+
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus the optiperformer has been installed successfully and sample file has been run
