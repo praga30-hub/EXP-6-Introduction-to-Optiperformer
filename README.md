@@ -20,6 +20,12 @@ The system includes:
 - A Bit Error Rate (BER) analyzer
 
 ---
+## Block Diagram
+<img width="757" height="388" alt="image" src="https://github.com/user-attachments/assets/09b3849f-269b-4a08-b3d5-aa70696f34b6" />
+
+## Model Graph
+<img width="900" height="311" alt="image" src="https://github.com/user-attachments/assets/86e39ed4-6061-4196-b70d-b8274268ad96" />
+
 
 ## Procedure
 
